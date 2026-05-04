@@ -2,6 +2,12 @@
 
 This two-week boot camp is beginner-friendly and job-facing. Each class includes a short lecture, a live demonstration, and a hands-on lab.
 
+## Grading Update
+
+The final exam grade will be recorded as **100% for everyone**.
+
+Because the course schedule has changed, the remaining meetings will focus on practical Windows 11 IT support skills instead of a traditional high-pressure final exam. Labs are optional in-class skill-building activities. Your instructor may ask you to submit screenshots or a short write-up in Brightspace to document participation and practice, but these labs are not a new high-stakes grading burden.
+
 ## Week 1
 
 | Class | Topic | Main Skills | Student Deliverable |
@@ -33,4 +39,3 @@ For each lab, practice these habits:
 - Take screenshots as evidence.
 - Write in clear, respectful support language.
 - Do not guess when you can check.
-

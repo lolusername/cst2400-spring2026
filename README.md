@@ -4,6 +4,24 @@ This repository contains the student materials for the remaining Windows 11 boot
 
 The focus is practical beginner IT support: how to inspect a Windows 11 computer, gather evidence, take screenshots, explain problems clearly, and choose safe next steps.
 
+## Course Update And Grading
+
+Because the course schedule has been interrupted by cancellations and changes, the rest of the course is being simplified.
+
+The final exam grade will be recorded as **100% for everyone**.
+
+For the remaining class meetings, we will not use a traditional high-pressure exam format. Instead, class time will be used for beginner-friendly Windows 11 IT support practice. These activities are meant to help you build useful skills, not punish anyone for the course schedule changing.
+
+The remaining in-class labs are optional skill-building practice. Your instructor may ask you to submit screenshots or a short write-up in Brightspace so participation can be documented and so you can get help, but these labs are not a new high-stakes grading burden.
+
+## Why Windows 11
+
+This course was originally organized around Windows 10 topics, but Windows 10 reached end of support on October 14, 2025 for the main Home, Pro, Enterprise, and Education editions. Microsoft now directs users toward Windows 11 for supported Windows desktop use.
+
+For that reason, the rest of this course will focus on Windows 11 troubleshooting and practical entry-level IT support skills.
+
+Microsoft reference: [Windows 10 reaching end of support](https://learn.microsoft.com/en-us/lifecycle/announcements/windows-10-end-of-support)
+
 ## What This Class Is Now
 
 For the rest of the course, class time will focus on hands-on Windows 11 skill building. The goal is not to memorize every menu. The goal is to practice the kind of troubleshooting steps used in entry-level help desk, desktop support, and IT support specialist jobs.
@@ -23,6 +41,8 @@ You will practice:
 
 - Brightspace is still the official place for course announcements and any official submissions.
 - This GitHub repo is for student-facing class materials and practice labs.
+- The final exam grade will be recorded as 100% for everyone.
+- Remaining labs are optional practical skill-building activities.
 - Labs are designed for restricted Windows 11 classroom computers.
 - You should not need administrator access.
 - You should not need to install software.
@@ -67,4 +87,3 @@ A good support note usually answers five questions:
 5. How can I explain this clearly to a non-technical user?
 
 That process matters more than memorizing a single button.
-
