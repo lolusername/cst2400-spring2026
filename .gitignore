@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.docx
+*.pptx
+*.pdf
+*.xml
+*.reg
+*.exe
+*.msi
+__pycache__/
+
