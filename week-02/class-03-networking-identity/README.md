@@ -30,6 +30,7 @@ If you already completed the file/security work, use the catch-up section to imp
 
 ## Files For This Class
 
+- [today-class-sheet.md](today-class-sheet.md)
 - [lab.md](lab.md)
 - [submission-checklist.md](submission-checklist.md)
 - [Glossary](../../../resources/glossary.md)
