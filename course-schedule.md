@@ -19,8 +19,14 @@ Because the course schedule has changed, the remaining meetings will focus on pr
 
 | Class | Topic | Main Skills | Student Deliverable |
 | --- | --- | --- | --- |
-| Class 3 | Networking and Identity Basics | IP address, DNS, `ipconfig`, `ping`, `tracert`, user accounts, groups, MFA | Network evidence plus onboarding/access table |
+| Class 3 / Week 14 Day 1 | Catch-up: Files/Search/Security + Networking and Identity Starter | File recovery, file Properties, search, Windows Security, `ipconfig`, DNS, groups, MFA | Combined screenshots plus short support note |
 | Class 4 | PowerShell and Help Desk Simulation | Safe PowerShell commands, evidence gathering, final support report | Screenshots plus a three-ticket support report |
+
+## Week 14 Day 1 Update
+
+Very few students attended the previous class meeting, so Week 13 Day 2 is being folded into Week 14 Day 1.
+
+Today starts with the missed files/search/recovery/security lab, then adds a shorter networking and identity starter. If you already completed the missed file/security work, use that time to improve your evidence, complete the optional challenge, and help prepare for the networking section.
 
 ## What To Submit
 
