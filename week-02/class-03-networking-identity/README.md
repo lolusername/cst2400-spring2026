@@ -1,8 +1,8 @@
-# Week 14 Day 1: Catch-Up + Networking and Identity Starter
+# Week 2 Day 1: Catch-Up + Networking and Identity Starter
 
 ## Goal
 
-Complete the missed Week 13 Day 2 files/search/recovery/security lab, then start beginner network troubleshooting and workplace access concepts.
+Complete the missed Week 1 Day 2 files/search/recovery/security lab, then start beginner network troubleshooting and workplace access concepts.
 
 ## Today You Will Practice
 
@@ -24,7 +24,7 @@ Entry-level IT support often starts with ordinary problems: missing files, suspi
 
 ## Attendance Note
 
-Because many students missed Week 13 Day 2, this class includes that file/security lab before moving into networking and identity.
+Because many students missed Week 1 Day 2, this class includes that file/security lab before moving into networking and identity.
 
 If you already completed the file/security work, use the catch-up section to improve your screenshots and written support response. Then continue to the networking section.
 

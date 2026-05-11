@@ -1,4 +1,4 @@
-# Today’s Class Sheet: Week 14 Day 1
+# Today’s Class Sheet: Week 2 Day 1
 
 ## What We Are Doing Today
 
@@ -86,7 +86,7 @@ There is enough lab work to take most of class. If you finish early, complete th
 Create this folder on the Desktop:
 
 ```text
-Week14_Day1_LastName
+Week2_Day1_LastName
 ```
 
 Inside it, create:
@@ -254,13 +254,13 @@ Submit screenshots and a short write-up if your instructor asks for Brightspace 
 Your write-up file:
 
 ```text
-week14_day1_support_note_LastName.docx
+week2_day1_support_note_LastName.docx
 ```
 
 If Word is not available:
 
 ```text
-week14_day1_support_note_LastName.txt
+week2_day1_support_note_LastName.txt
 ```
 
 ## Required Screenshot Checklist

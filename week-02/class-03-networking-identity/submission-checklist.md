@@ -1,8 +1,8 @@
-# Week 14 Day 1 Submission Checklist
+# Week 2 Day 1 Submission Checklist
 
 Before submitting in Brightspace, make sure your folder contains:
 
-- [ ] Screenshot of your `Week14_Day1_LastName` folder structure
+- [ ] Screenshot of your `Week2_Day1_LastName` folder structure
 - [ ] Screenshot of the file Properties window
 - [ ] Screenshot of the restore step or Recycle Bin
 - [ ] Screenshot of the restored file
@@ -29,7 +29,7 @@ Your response should include:
 
 ## Strong Submission Check
 
-If you already completed the missed Week 13 Day 2 file/security lab, make today’s work stronger by adding:
+If you already completed the missed Week 1 Day 2 file/security lab, make today’s work stronger by adding:
 
 - [ ] One useful folder naming recommendation
 - [ ] One useful file naming recommendation

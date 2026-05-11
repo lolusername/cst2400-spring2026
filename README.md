@@ -66,7 +66,7 @@ You will practice:
 
 ### Week 2
 
-- [Week 14 Day 1: Catch-Up + Networking and Identity Starter](week-02/class-03-networking-identity/)
+- [Week 2 Day 1: Catch-Up + Networking and Identity Starter](week-02/class-03-networking-identity/)
 - [Class 4: PowerShell and Help Desk Simulation](week-02/class-04-powershell-final-simulation/)
 
 ## Helpful Resources

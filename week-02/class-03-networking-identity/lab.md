@@ -1,4 +1,4 @@
-# Lab: Week 14 Day 1 Catch-Up + Network Starter
+# Lab: Week 2 Day 1 Catch-Up + Network Starter
 
 **Points:** 20  
 **Submit in:** Brightspace, if instructed  
@@ -6,7 +6,7 @@
 
 ## Why This Lab Is Combined
 
-Very few students attended Week 13 Day 2. Today combines that missed file/security lab with the next topic: networking and identity.
+Very few students attended Week 1 Day 2. Today combines that missed file/security lab with the next topic: networking and identity.
 
 The goal is not to rush. The goal is to practice realistic entry-level IT support evidence gathering.
 
@@ -27,7 +27,7 @@ Your job is to collect safe evidence and write a short support note.
 On the Desktop, create this folder:
 
 ```text
-Week14_Day1_LastName
+Week2_Day1_LastName
 ```
 
 Inside it, create:
@@ -228,13 +228,13 @@ Available shared resources:
 Create a file named:
 
 ```text
-week14_day1_support_note_LastName.docx
+week2_day1_support_note_LastName.docx
 ```
 
 If Word is not available, use Notepad and save:
 
 ```text
-week14_day1_support_note_LastName.txt
+week2_day1_support_note_LastName.txt
 ```
 
 Write 8 to 10 sentences using this structure:
@@ -256,7 +256,7 @@ Your response should explain:
 4. What network evidence you collected.
 5. Why groups are safer than giving one person random direct access.
 
-## If You Already Completed Week 13 Day 2
+## If You Already Completed Week 1 Day 2
 
 Still complete today’s combined submission, but you may use your previous file/security screenshots if they are clear.
 
