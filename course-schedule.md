@@ -22,6 +22,12 @@ Because the course schedule has changed, the remaining meetings will focus on pr
 | Week 2 Day 1 | Catch-up: Files/Search/Security + Networking and Identity Starter | File recovery, file Properties, search, Windows Security, `ipconfig`, DNS, groups, MFA | Combined screenshots plus short support note |
 | Week 2 Day 2 | PowerShell and Help Desk Simulation | Safe PowerShell commands, evidence gathering, final support report | Screenshots plus a three-ticket support report |
 
+## Final Day
+
+| Class | Topic | Main Skills | Student Deliverable |
+| --- | --- | --- | --- |
+| Day 5 | Windows IT Skills Interview Review | Evidence screenshots, support-ticket explanations, resume bullets, interview answers | Mini interview portfolio |
+
 ## Week 2 Day 1 Update
 
 Very few students attended the previous class meeting, so Week 1 Day 2 is being folded into Week 2 Day 1.

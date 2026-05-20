@@ -69,6 +69,10 @@ You will practice:
 - [Week 2 Day 1: Catch-Up + Networking and Identity Starter](week-02/class-03-networking-identity/)
 - [Class 4: PowerShell and Help Desk Simulation](week-02/class-04-powershell-final-simulation/)
 
+### Final Day
+
+- [Day 5: Windows IT Skills Interview Review](final-day/day-05-windows-it-interview-review/)
+
 ## Helpful Resources
 
 - [Windows 11 Screenshot Guide](resources/windows-11-screenshot-guide.md)
